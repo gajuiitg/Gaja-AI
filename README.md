@@ -186,8 +186,8 @@
         // ═══════════════════════════════════════════════════════════
         // CONFIGURE YOUR HF SPACE URL HERE
         // ═══════════════════════════════════════════════════════════
-        const API_URL = "https://your-username-your-space-name.hf.space/chat";
-        // Example: "https://gajuiitg-gaja-agent.hf.space/chat"
+        const API_URL = "https://huggingface.co/spaces/Gajuiitg/gaja-agent";
+        // Example: "https://gajuiitg-gaja-agent.hf.space/chat"https://huggingface.co/spaces/Gajuiitg/gaja-agent
         // ═══════════════════════════════════════════════════════════
         
         let threadId = "gaja_" + Math.random().toString(36).substr(2, 9);
